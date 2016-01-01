@@ -10,6 +10,7 @@ define('MODULO_ERROR', 'error');
 define('MODULO_PATH', realpath('./content/'));
 define('LAYOUT_PATH', realpath('./layouts/'));
 
+$gallerypath = $_SERVER['DOCUMENT_ROOT'].'/iron/content/galleries/';
 
 
 //localhost/app/?page=cellardoor

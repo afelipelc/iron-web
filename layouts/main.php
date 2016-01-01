@@ -4,8 +4,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
 <title>Iron Web - Home</title>
-<meta name="Keywords" content="iron work, welding, fences, gates, railings, porches, staircases, spiral staircases, fire escapes, tree guards, window guards, cellar doors" />
-<meta name="Description" content="A1 Iron works is a Brooklyn-based company serving the entire tri-state area dealing with all aspects of the ironwork industry." />
+<meta name="Keywords" content="railings, staircases, fire escapes, window guards, cellar doors" />
+<meta name="Description" content="Set description" />
 <link href="assets/css/default.css" rel="stylesheet" type="text/css" />
 
 <script type="text/javascript" src="assets/js/jquery-1-4-2-min.js"></script>

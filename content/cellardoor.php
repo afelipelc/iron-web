@@ -11,8 +11,7 @@
       <div id="carousel">
         <ul>
           <?php
-            $root = $_SERVER['DOCUMENT_ROOT'];
-            $files = scandir($root.'/iron/content/galleries/cellardoor/',1);
+            $files = scandir($gallerypath.'cellardoor/',1);
             foreach ($files as $file) {
               if (strpos($file,'jpg') !== false && strpos($file,'thmb') === false) {
                 echo '<li><img src="content/galleries/cellardoor/'.$file.'" width="470" height="290" /></li>';
