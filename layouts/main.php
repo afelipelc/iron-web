@@ -52,7 +52,7 @@
   <div id="sidebar">
     <div id="side_menu">
       <div class="side_header">
-        <h2>PRODUCTS &amp; SERVICES</h2>
+        <h2>Products</h2>
       </div>
       <ul>
         <li>
@@ -60,12 +60,12 @@
             <li><a href="?page=cellardoor">Cellar Doors</a></li>
             <li><a href="?page=drivewaydoor">DriverWay Doors</a></li>
             <li><a href="?page=firescape">Fire scape</a></li>
-            <li><a href="?page=railinghanddraling">railinghanddraling</a></li>
-            <li><a href="?page=securitydoor">Security door</a></li>
-            <li><a href="?page=staircase">staircase</a></li>
-            <li><a href="?page=steelfences">steelfences</a></li>
-            <li><a href="?page=structuralsteel">structuralsteel</a></li>
-            <li><a href="?page=window">window</a></li>
+            <li><a href="?page=railinghanddraling">Railing Handdraling</a></li>
+            <li><a href="?page=securitydoor">Security doors</a></li>
+            <li><a href="?page=staircase">Staircases</a></li>
+            <li><a href="?page=steelfences">Steelfences</a></li>
+            <li><a href="?page=structuralsteel">Structural Steel</a></li>
+            <li><a href="?page=window">Windows</a></li>
           </ul>
         </li>
       </ul>

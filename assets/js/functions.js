@@ -1,6 +1,6 @@
 $(function(){
   $('#carousel').infiniteCarousel({
-    displayThumbnailNumbers:1,
+    displayThumbnailNumbers:0,
     displayThumbnailBackground:1,
     thumbnailWidth:'81px',
     thumbnailHeight:'50px',

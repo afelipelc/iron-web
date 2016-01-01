@@ -5,7 +5,7 @@ modularizado
 de los modulos
 */
 define('MODULO_DEFECTO', 'home');
-define('LAYOUT_DEFECTO', 'main.php');
+define('LAYOUT_DEFECTO', 'steel.php');
 define('MODULO_ERROR', 'error');
 define('MODULO_PATH', realpath('./content/'));
 define('LAYOUT_PATH', realpath('./layouts/'));
@@ -32,6 +32,10 @@ $conf['structuralsteel'] = array(
   'archivo'=>'structuralsteel.php' );
 $conf['window'] = array(
   'archivo'=>'window.php' );
+$conf['about'] = array(
+  'archivo'=>'about.html' );
+$conf['services'] = array(
+  'archivo'=>'services.html' );
 
 $conf['home']=array(
   'archivo'=>'home.php',
