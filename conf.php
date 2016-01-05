@@ -7,10 +7,11 @@ de los modulos
 define('MODULO_DEFECTO', 'home');
 define('LAYOUT_DEFECTO', 'steel.php');
 define('MODULO_ERROR', 'error');
-define('MODULO_PATH', realpath('./content/'));
-define('LAYOUT_PATH', realpath('./layouts/'));
+define('MODULO_PATH', realpath('./content'));
+define('LAYOUT_PATH', realpath('./layouts'));
 
-$gallerypath = $_SERVER['DOCUMENT_ROOT'].'/iron/content/galleries/';
+//la ruta se tomó desde el servidor al indicar que había un error en el archivo de módulo al intentar escanear la carpeta
+$gallerypath = '/home/content/p3pnexwpnas02_data03/37/2762237/html/content/galleries/';
 
 
 //localhost/app/?page=cellardoor

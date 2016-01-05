@@ -1,12 +1,7 @@
 <?php
 error_reporting(E_ALL);
 header('Content-Type: text/html; charset=ISO-8859-1');
-?>
-<html xmlns="http://www.w3.org/1999/xhtml"lang="ES-MX" xml:lang="ES-MX">
-<head>
-<title>Iron Web</title>
 
-<?php
 include('conf.php');
 
 if (!empty($_GET['page']))
